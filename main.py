@@ -1,3 +1,7 @@
 import calc
+import testing
 
-print(calc.add(2, 3))
+if testing.testing_add():
+    print('good')
+else:
+    print('bad')
