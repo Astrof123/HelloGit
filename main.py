@@ -9,3 +9,5 @@ else:
 
 
 print("Тест закончен")
+print('goodbye mars')
+print(calc.add(2, 3))
